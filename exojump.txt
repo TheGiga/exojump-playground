@@ -1,0 +1,7 @@
+"exojump"
+{
+ "material" "overviews/exojump"
+ "pos_x"  "-3058"
+ "pos_y"  "2418"
+ "scale"  "5.00"
+} 
